@@ -18,4 +18,5 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 * Relevant Info: Budgets (Excel)
 
 [SQL Data Link](SalesAnalysisSQL)
+
 SQL Data Description:
