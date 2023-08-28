@@ -12,7 +12,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 
 **Business Demand Overview:**
 * Report to: Sales Manager
-* Purpose: Improved sales reporting
+* Purpose: Improved sales reporting for the year 2021 onwards.
 * Plan: Convert static data to visual dashboards (accessibility)
 * Necessary Systems: SQL, Power BI, CRM
 * Relevant Info: Budgets (Excel)
