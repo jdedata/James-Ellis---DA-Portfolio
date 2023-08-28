@@ -17,3 +17,5 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 * Necessary Systems: SQL, Power BI, CRM
 * Relevant Info: Budgets (Excel)
 
+[SQL Data Link](SalesAnalysisSQL)
+SQL Data Description:
