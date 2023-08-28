@@ -32,7 +32,7 @@ SELECT
 FROM 
 	[AdventureWorksDW2022].[dbo].[DimDate]
 WHERE
-	CalendarYear >= 2019
+	CalendarYear >= 2019;
 
 --(S)
 
@@ -77,7 +77,7 @@ SELECT
 	ON g.geographykey = c.geographykey
 --Basic table join to primary key / Joined Customer City from Geography table (geographic visualizations)
 ORDER BY
-	CustomerKey ASC 
+	CustomerKey ASC;
 -- Order list by customer key ascending
 
 -(S)
@@ -129,6 +129,43 @@ FROM [AdventureWorksDW2022].[dbo].[DimProduct] AS p
 	LEFT JOIN [AdventureWorksDW2022].[dbo].[DimProductCategory] AS pc ON ps.ProductCategoryKey = pc.ProductCategoryKey
 --JOIN subcategory and category tables and apply aliases
 ORDER BY
-	p.ProductKey ASC
+	p.ProductKey ASC;
+
+-(S)
+
+--Cleaned FACT_InternetSales Table
+SELECT
+	   [ProductKey]
+      ,[OrderDateKey]
+      ,[DueDateKey]
+      ,[ShipDateKey]
+      ,[CustomerKey]
+		  --,[PromotionKey]
+		  --,[CurrencyKey]
+		  --,[SalesTerritoryKey]
+      ,[SalesOrderNumber]
+		  --,[SalesOrderLineNumber]
+		  --,[RevisionNumber]
+		  --,[OrderQuantity]
+		  --,[UnitPrice]
+		  --,[ExtendedAmount]
+		  --,[UnitPriceDiscountPct]
+		  --,[DiscountAmount]
+		  --,[ProductStandardCost]
+		  --,[TotalProductCost]
+      ,[SalesAmount]
+      --,[TaxAmt]
+      --,[Freight]
+      --,[CarrierTrackingNumber]
+      --,[CustomerPONumber]
+      --,[OrderDate]
+      --,[DueDate]
+      --,[ShipDate]
+  FROM [AdventureWorksDW2022].[dbo].[FactInternetSales]
+  WHERE
+	LEFT (OrderDateKey, 4) >= YEAR(GETDATE()) -2 
+--Transform date into YEAR value to get the appropriate date for the task (2021 onwards) 
+ORDER BY
+	OrderDateKey ASC;
 
 -(S)
