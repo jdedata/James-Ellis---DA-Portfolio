@@ -37,3 +37,20 @@ SQL Data Description:
 [SQL Data Link](
 
 SQL Data Description:
+
+## Podcast Dashboard Project
+
+- Description: Create a dashboard for podcast statistics in Tableau
+- Tools Utilized: Excel and Tableau
+- Task: Real life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
+
+**Task Overview:**
+* Report to: Owner
+* Purpose: Create a dashboard to show podcast trends
+* Plan: Normalize and clean Excel files and utilize Tableau to transform them into a dashboard
+* Necessary Systems: Excel and Tableau
+* Relevant Info: Plays over time, guest names, episode themes, and episode ranks
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/james.ellis6768/viz/PodcastDashboard/MainDashboard?publish=yes)
+
+
