@@ -21,9 +21,9 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 
 SQL Data Description:
 
-## Business Performance Project
+## Pizza Business Project
 
-- Description: Create a relational database and connected dashboard to monitor business performance
+- Description: Create a relational database and connected dashboard to monitor inventory prices, staff costs, and stock costs
 - Tools Utilized: Excel, Quick DBD, SQL and Power BI
 - Task: Fictional task from a new business owner to create a bespoke relational database (SQL) to capture all the data the business generates. From this data create an accessible dashboard (Power BI) to help the owner monitor performance. Focus on orders, stock levels, and staff.
 
@@ -34,7 +34,8 @@ SQL Data Description:
 * Necessary Systems: SQL, Power BI, Excel, and Quick DBD
 * Relevant Info: Customer data, staff data, stock data
 
-[SQL Data Link](
+[SQL Data Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/SalesAnalysisPizza.sql)
+[Power BI Link]( ??? 
 
 SQL Data Description:
 
