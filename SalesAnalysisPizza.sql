@@ -259,5 +259,41 @@ LEFT JOIN ingredient AS ing
 	ON ing.ing_id = s2.ing_id
 
 /* Selecting from 'view1', joining to the relevant tables (inventory and ingredient) to then subquery that statement as to work out
-total inventory weight and the remaining weight
+total inventory weight and the remaining weight. */
 
+/* From here we can move to staff and rotas. The below basic query joins the relevant tables of staff, rota, and shift times */
+
+SELECT
+r.date,
+s.first_name,
+s.last_name,
+s.hourly_rate,
+sh.start_time,
+sh.end_time
+FROM rota AS r
+LEFT JOIN staff AS s
+	ON r.staff_id = s.staff_id
+LEFT JOIN shift AS sh
+	ON r.shift_id = sh.shift_id
+
+/* Now the difference between the start_time and end_time needs to be calculated and then multiplied by the hourly rate to work out staff costs */
+
+SELECT
+r.date,
+s.first_name,
+s.last_name,
+s.hourly_rate,
+sh.start_time,
+sh.end_time,
+((hour(timediff(sh.end_time, sh.start_time))*60)+(minute(timediff(sh.end_time, sh.start_time))))/60 AS hours_in_shift,
+((hour(timediff(sh.end_time, sh.start_time))*60)+(minute(timediff(sh.end_time, sh.start_time))))/60 *s.hourly_rate AS staff_cost
+
+/*The above 2 lines calculate the difference between end time and start time in hours, multiply that by 60 to work out  no of minutes
+this is added to the difference between start and end minutes, this is total minutes and divided by 60 to get the difference in hours. This is 
+then copied and multiplied by hourly rate */
+
+FROM rota AS r
+LEFT JOIN staff AS s
+	ON r.staff_id = s.staff_id
+LEFT JOIN shift AS sh
+	ON r.shift_id = sh.shift_id
