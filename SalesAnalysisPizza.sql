@@ -297,3 +297,5 @@ LEFT JOIN staff AS s
 	ON r.staff_id = s.staff_id
 LEFT JOIN shift AS sh
 	ON r.shift_id = sh.shift_id
+
+/* After this the data and altered tables are then imported/transformed in Power BI */
