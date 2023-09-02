@@ -4,24 +4,40 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 
 ---
 # Projects
-## Sales Analysis Project
+
+## Bicycle Sales Analysis Project (Under Construction)
 
 - Description: Utilizing sales data to create informative visual dashboards.
-- Tools Utilized: SQL and Power BI
+- Tools Utilized: SQL and Tableau
+- Task: Fictional task to analyze sales data between 2016 and 2019 for a bicycle store.
+
+**Task Overview:**
+* Purpose: Improved sales reporting for the years 2016-2019 onwards.
+* Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016=2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps.
+* Necessary Systems: SQL, Excel, and Tableau
+* Relevant Info: SQL Database
+SQL Queries Link
+Excel Link
+Tableau Link
+
+## Sales Analysis Project (Under Construction)
+
+- Description: Utilizing sales data to create informative visual dashboards.
+- Tools Utilized: SQL and Tableau
 - Task: Fictional task from a Sales Manager seeking to improve internet sales reports by converting static data (SQL) to visual dashboards (Power BI). The data must include filters for sales reps, customers, and products. The data needs to be able to be tracked against budget and performance. 
 
 **Task Overview:**
 * Report to: Sales Manager
 * Purpose: Improved sales reporting for the year 2021 onwards.
 * Plan: Convert static data to visual dashboards (accessibility)
-* Necessary Systems: SQL, Power BI, CRM
+* Necessary Systems: SQL, Tableau, CRM
 * Relevant Info: Budgets (Excel)
 
 [SQL Data Link](SalesAnalysisSQL)
 
 SQL Data Description:
 
-## Pizza Business Project
+## Pizza Business Project (Under Construction)
 
 - Description: Create a relational database and connected dashboard to monitor inventory prices, staff costs, and stock costs
 - Tools Utilized: Excel, Quick DBD, SQL and Power BI
@@ -43,7 +59,7 @@ SQL Data Description:
 
 - Description: Create a dashboard for podcast statistics in Tableau
 - Tools Utilized: Excel and Tableau
-- Task: Real life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
+- Task: Real-life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
 
 **Task Overview:**
 * Report to: Owner
