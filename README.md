@@ -13,7 +13,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 
 **Task Overview:**
 * Purpose: Improved sales reporting for the years 2016-2019 onwards.
-* Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016=2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps.
+* Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016-2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps. Then connect the modified SQL database directly to Excel (via the linked SQL query) so that updates can carried across. 
 * Necessary Systems: SQL, Excel, and Tableau
 * Relevant Info: SQL Database
 SQL Queries Link
