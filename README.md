@@ -17,9 +17,11 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 * Necessary Systems: SQL, Excel, and Tableau
 * Relevant Info: SQL Database
   
-* SQL Query [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
-* Excel Link
-* Tableau Link
+SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
+
+Excel Visualization - Link
+
+Tableau Dashboard - Link
 
 ## Sales Analysis Project (Under Construction)
 
