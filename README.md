@@ -19,7 +19,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
   
 SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
 
-Excel Visualization - Link
+Excel Visualization - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/Bike%20Stores.xlsx)
 
 Tableau Dashboard - Link
 
