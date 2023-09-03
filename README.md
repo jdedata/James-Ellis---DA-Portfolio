@@ -5,23 +5,23 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 ---
 # Projects
 
-## Bicycle Sales Analysis Project (Under Construction)
+## Bicycle Sales Analysis Project
 
 - Description: Utilizing sales data to create informative visual dashboards.
 - Tools Utilized: SQL, Excel, and Tableau
-- Task: Fictional task to analyze sales data between 2016 and 2019 for a bicycle store.
+- Task: Fictional task to analyze a bicycle store's sales data between 2016 and 2019.
 
 **Task Overview:**
 * Purpose: Improved sales reporting for the years 2016-2019 onwards.
-* Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016-2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps. Then connect the modified SQL database directly to Excel (via the linked SQL query) so that updates can carried across. 
+* Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016-2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps. Then connect the modified SQL database directly to Excel (via the linked SQL query) so that updates can carried across. Create both Excel and Tableau dashboards as visualization examples.
 * Necessary Systems: SQL, Excel, and Tableau
 * Relevant Info: SQL Database
   
 SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
 
-Excel Visualization - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/Bike%20Stores.xlsx)
+Excel Visualization (file) - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/Bike%20Stores.xlsx)
 
-Tableau Dashboard - Link
+Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis6768/viz/ExecutiveDashboardExample_16937068345260/Dashboard1?publish=yes)
 
 ## Sales Analysis Project (Under Construction)
 
