@@ -19,7 +19,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
   
 SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
 
-Excel Visualization (file) - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/Bike%20Stores.xlsx)
+Excel Visualization - [File Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/Bike%20Stores.xlsx)
 
 Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis6768/viz/ExecutiveDashboardExample_16937068345260/Dashboard1?publish=yes)
 
@@ -49,7 +49,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 * Necessary Systems: Excel and Power BI
 * Relevant Info: Excel Workbook
 
-Power BI Link
+Power BI Dashboard - [File Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/dataprofbreakdown.pbix)
 
 
 
