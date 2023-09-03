@@ -36,7 +36,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 * Necessary Systems: SQL, Tableau, CRM
 * Relevant Info: Budgets (Excel)
 
-[SQL Data Link](SalesAnalysisSQL)
+[SQL Data Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/SalesAnalysisSQL.sql)
 
 SQL Data Description:
 
