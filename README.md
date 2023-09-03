@@ -8,7 +8,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 ## Bicycle Sales Analysis Project (Under Construction)
 
 - Description: Utilizing sales data to create informative visual dashboards.
-- Tools Utilized: SQL and Tableau
+- Tools Utilized: SQL, Excel, and Tableau
 - Task: Fictional task to analyze sales data between 2016 and 2019 for a bicycle store.
 
 **Task Overview:**
