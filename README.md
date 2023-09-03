@@ -23,6 +23,20 @@ Excel Visualization (file) - [Link](https://github.com/jdedata/James-Ellis---DA-
 
 Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis6768/viz/ExecutiveDashboardExample_16937068345260/Dashboard1?publish=yes)
 
+## Podcast Dashboard Project
+
+- Description: Create a dashboard for podcast statistics in Tableau
+- Tools Utilized: Excel and Tableau
+- Task: Real-life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
+
+**Task Overview:**
+* Purpose: Create a dashboard to show podcast trends
+* Plan: Normalize and clean Excel files and utilize Tableau to transform them into a dashboard
+* Necessary Systems: Excel and Tableau
+* Relevant Info: Plays over time, guest names, episode themes, and episode ranks
+
+[Tableau Dashboard](https://public.tableau.com/app/profile/james.ellis6768/viz/PodcastDashboard/MainDashboard?publish=yes)
+
 ## Sales Analysis Project (Under Construction)
 
 - Description: Utilizing sales data to create informative visual dashboards.
@@ -30,7 +44,6 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 - Task: Fictional task from a Sales Manager seeking to improve internet sales reports by converting static data (SQL) to visual dashboards (Power BI). The data must include filters for sales reps, customers, and products. The data needs to be able to be tracked against budget and performance. 
 
 **Task Overview:**
-* Report to: Sales Manager
 * Purpose: Improved sales reporting for the year 2021 onwards.
 * Plan: Convert static data to visual dashboards (accessibility)
 * Necessary Systems: SQL, Tableau, CRM
@@ -58,19 +71,5 @@ SQL Data Description:
 
 SQL Data Description:
 
-## Podcast Dashboard Project
-
-- Description: Create a dashboard for podcast statistics in Tableau
-- Tools Utilized: Excel and Tableau
-- Task: Real-life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
-
-**Task Overview:**
-* Report to: Owner
-* Purpose: Create a dashboard to show podcast trends
-* Plan: Normalize and clean Excel files and utilize Tableau to transform them into a dashboard
-* Necessary Systems: Excel and Tableau
-* Relevant Info: Plays over time, guest names, episode themes, and episode ranks
-
-[Tableau Dashboard](https://public.tableau.com/app/profile/james.ellis6768/viz/PodcastDashboard/MainDashboard?publish=yes)
 
 
