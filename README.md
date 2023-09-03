@@ -54,7 +54,4 @@ Power BI Dashboard - [File Link](https://github.com/jdedata/James-Ellis---DA-Por
 
 
 
-SQL Data Description:
-
-
 
