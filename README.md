@@ -8,7 +8,7 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 ## Bicycle Sales Analysis Project
 
 - Description: Utilizing sales data to create informative visual dashboards.
-- Tools Utilized: SQL, Excel, and Tableau
+- Tools Utilized: **SQL, Excel, and Tableau**
 - Task: Fictional task to analyze a bicycle store's sales data between 2016 and 2019.
 
 **Task Overview:**
@@ -26,7 +26,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 ## Podcast Dashboard Project
 
 - Description: Create a dashboard for podcast statistics in Tableau
-- Tools Utilized: Excel and Tableau
+- Tools Utilized: **Excel and Tableau**
 - Task: Real-life task to create a dashboard in Tableau from Excel files to show episode theme popularity, guest popularity, and general trends for the podcast Hermitix
 
 **Task Overview:**
@@ -37,37 +37,22 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/james.ellis6768/viz/PodcastDashboard/MainDashboard?publish=yes)
 
-## Sales Analysis Project (Under Construction)
+## Data Analysis Survey Project (Under Construction)
 
-- Description: Utilizing sales data to create informative visual dashboards.
-- Tools Utilized: SQL and Tableau
-- Task: Fictional task from a Sales Manager seeking to improve internet sales reports by converting static data (SQL) to visual dashboards (Power BI). The data must include filters for sales reps, customers, and products. The data needs to be able to be tracked against budget and performance. 
-
-**Task Overview:**
-* Purpose: Improved sales reporting for the year 2021 onwards.
-* Plan: Convert static data to visual dashboards (accessibility)
-* Necessary Systems: SQL, Tableau, CRM
-* Relevant Info: Budgets (Excel)
-
-[SQL Data Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/SalesAnalysisSQL.sql)
-
-SQL Data Description:
-
-## Pizza Business Project (Under Construction)
-
-- Description: Create a relational database and connected dashboard to monitor inventory prices, staff costs, and stock costs
-- Tools Utilized: Excel, Quick DBD, SQL and Power BI
-- Task: Fictional task from a new business owner to create a bespoke relational database (SQL) to capture all the data the business generates. From this data create an accessible dashboard (Power BI) to help the owner monitor performance. Focus on orders, stock levels, and staff.
+- Description: Utilizing survey data to create an informative visual dashboard.
+- Tools Utilized: **Excel and Power BI**
+- Task: Real-life task to transform survey data from data professionals into an accessible visualization. 
 
 **Task Overview:**
-* Report to: Owner
-* Purpose: Create a central database and utilize data to create dashboards
-* Plan: Create a database and then convert static data to visual dashboards (accessibility)
-* Necessary Systems: SQL, Power BI, Excel, and Quick DBD
-* Relevant Info: Customer data, staff data, stock data
+* Purpose: Visualize connections between job satisfaction, job role, salary, and occupation.
+* Plan: Clean data and then convert static data to visual dashboards (accessibility)
+* Necessary Systems: Excel and Power BI
+* Relevant Info: Excel Workbook
 
-[SQL Data Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/SalesAnalysisPizza.sql)
-[Power BI Link]( ??? 
+Power BI Link
+
+
+
 
 SQL Data Description:
 
