@@ -16,9 +16,10 @@ Hi. This repository contains examples of SQL and Python I've written whilst work
 * Plan: Convert static data to visual dashboards (accessibility), including data for sales year 2016-2019, revenues per region, per store, per product category, per brand, alongside two lists of top customers and top sales reps. Then connect the modified SQL database directly to Excel (via the linked SQL query) so that updates can carried across. 
 * Necessary Systems: SQL, Excel, and Tableau
 * Relevant Info: SQL Database
-SQL Query [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
-Excel Link
-Tableau Link
+  
+* SQL Query [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/BicycleSQLquery.sql)
+* Excel Link
+* Tableau Link
 
 ## Sales Analysis Project (Under Construction)
 
