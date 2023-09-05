@@ -37,7 +37,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/james.ellis6768/viz/PodcastDashboard/MainDashboard?publish=yes)
 
-## Data Analysis Survey Project (Under Construction)
+## Data Analysis Survey Project
 
 - Description: Utilizing survey data to create an informative visual dashboard.
 - Tools Utilized: **Excel and Power BI**
@@ -50,6 +50,13 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 * Relevant Info: Excel Workbook
 
 Power BI Dashboard - [File Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/dataprofbreakdown.pbix)
+
+## Tableau Dashboard Examples
+
+**Airbnb dashboard**
+
+- A dashboard created using a small (50,000 rows) Airbnb database including room type, neighborhood, review count, price, and location.
+- [Dashboard link](https://public.tableau.com/app/profile/james.ellis6768/viz/AirbnbSalesLocationDashboard/airbnbdashboardexample?publish=yes)
 
 
 
