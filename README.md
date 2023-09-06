@@ -35,7 +35,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 * Necessary Systems: SQL and Tableau
 * Relevant Info: CSV Data
   
-SQL Query - [Link]()
+SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/motorsales.sql)
 
 
 Tableau Dashboard - [Link]()
