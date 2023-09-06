@@ -23,6 +23,24 @@ Excel Visualization - [File Link](https://github.com/jdedata/James-Ellis---DA-Po
 
 Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis6768/viz/ExecutiveDashboardExample_16937068345260/Dashboard1?publish=yes)
 
+## Store Sales Analysis
+
+- Description: Utilizing sales data to create informative visual dashboards.
+- Tools Utilized: **SQL and Tableau**
+- Task: Fictional task to analyze a motor vehicle store's sales data.
+
+**Task Overview:**
+* Purpose: Find which products are bought together, which customers purchase the most, and the most profitable month.
+* Plan: Convert static data to visual dashboards (accessibility), including data for customers, sales and orders, dates, and order status. Perform RFM analysis to work out which customers are the most loyal. Then upload the modified SQL database directly to Tableau. Create Tableau dashboards as visualization examples.
+* Necessary Systems: SQL and Tableau
+* Relevant Info: CSV Data
+  
+SQL Query - [Link]()
+
+
+Tableau Dashboard - [Link]()
+
+
 ## Podcast Dashboard Project
 
 - Description: Create a dashboard for podcast statistics in Tableau
