@@ -70,6 +70,20 @@ Power BI Dashboard - [File Link](https://github.com/jdedata/James-Ellis---DA-Por
 
 ## Tableau Dashboard Examples
 
+**Airlines Dashboard**
+
+I approached the data as follows. Firstly, a dashboard covering a general overview of the data pertaining to general questions: What are the averages relating to reviews per customer type and reviews per seat/class type, and what percentage of each makes up the total customer base.
+
+Secondly, I created a further dashboard to hone in on the previous general metrics but in relation to Aegean and their immediate competitors. Allowing them to see their relative positions against the first dashboard's general data and their competitors.
+
+Third and finally, I created a final dashboard that includes further filterable variables (food rating, staff rating, entertainment rating, and value for money rating) that allow one the ability to filter the data as to perceive which actionable changes (better food, entertainment, etc) relate to higher average reviews and a greater number of recommendations.
+
+These three dashboards are then presented as a full story that, in a real-life scenario, would be accompanied by a presentation.
+
+- [Dashboard link](https://public.tableau.com/app/profile/james.ellis6768/viz/AirlinesSurvey-JE/AirlinesSurvey?publish=yes)
+
+
+
 **Airbnb dashboard**
 
 - A dashboard created using a small (50,000 rows) Airbnb database including room type, neighborhood, review count, price, and location.
