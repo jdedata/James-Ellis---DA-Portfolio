@@ -50,7 +50,7 @@ Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis676
 * Necessary Systems: CSV(Excel), Python, and Jupyter
 * Relevant Info: [CSV Data]([url](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running?resource=download))
   
-SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/motorsales.sql)
+Python Query - [Link]([https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/motorsales.sql](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/marathonpython.py))
 
 ## Podcast Dashboard Project
 
