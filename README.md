@@ -39,6 +39,18 @@ SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/ma
 
 Tableau Dashboard - [Link](https://public.tableau.com/app/profile/james.ellis6768/viz/MotorSalesStory/SalesStory?publish=yes)
 
+## Ultra-Marathon Race Analysis
+
+- Description: Utilizing racing data to create informative visual dashboards.
+- Tools Utilized: **Python, Jupyter, Excel**
+- Task: Fictional task to analyze a motor vehicle store's sales data.
+
+**Task Overview:**
+* Purpose: Clean race data in a CSV file using Python via Jupyter.
+* Necessary Systems: CSV(Excel), Python, and Jupyter
+* Relevant Info: [CSV Data]([url](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running?resource=download))
+  
+SQL Query - [Link](https://github.com/jdedata/James-Ellis---DA-Portfolio/blob/main/motorsales.sql)
 
 ## Podcast Dashboard Project
 
