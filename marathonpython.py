@@ -94,3 +94,12 @@ sns.histplot(rt2['race_length'])
 sns.histplot(rt2, x = 'race_length', hue = 'athlete_gender')
 sns.displot(rt2[rt2['race_length'] == '50mi']['athlete_average_speed'])
 sns.violinplot(rt2, x = 'race_length', y = 'athlete_average_speed', hue = 'athlete_gender')
+sns.lmplot(rt2, x = 'athlete_age', y = 'athlete_average_speed', hue = 'athlete_gender')
+
+#Questions to be answered from the data
+
+#Difference in speed for the 50k, 50mi male to female
+rt2.groupby(['race_length', 'athlete_gender'])['athlete_average_speed'].mean()
+
+#What age groups are best in the 50mi race (20 + races min)
+rt2.query('race_length == "50mi"').groupby('athlete_age')['athlete_average_speed'].agg(['mean', 'count']).sort_values('mean', ascending = False).query('count>19').head(15)
